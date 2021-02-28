@@ -3,3 +3,5 @@ def square_array(array)
   array.each{|number|squared_numbers << number ** 2}
   return squared_numbers 
 end
+
+
